@@ -1,0 +1,17 @@
+{
+  "name": "next-router-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mali Michael <malimccalla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
